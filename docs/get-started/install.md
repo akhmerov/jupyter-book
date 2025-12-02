@@ -88,10 +88,6 @@ uv add "jupyter-book>=2.0.0a0"
 :::{card}
 :header: Install with [`pixi`][pixi] 🔥
 
-```{warning}
-Jupyter Book 2 is not yet released on `conda-forge`. Stay tuned!
-```
-
 Never heard of `pixi`? See [the documentation][pixi] for more.
 
 ```shell:
